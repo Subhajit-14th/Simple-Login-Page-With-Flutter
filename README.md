@@ -2,7 +2,7 @@
 <h3 align="center">This is my first flutter project</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajit-14th&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit-14th" /> </p>
 
-
+<h3 align="left"> This is a simple login page using flutter with gradient background </h3>
 
 
 
